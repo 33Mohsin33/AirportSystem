@@ -1,0 +1,2 @@
+# AirportSystem
+ This is a C++ project that simulates an airport management system using the concepts of object-oriented programming and file handling. The project allows the user to perform various operations related to flights, passengers, tickets, and staff. The project also stores and retrieves data from text files using file streams. The project maintains the previous data in files and saves the new data entered by the user in files. The project demonstrates the use of classes, inheritance, polymorphism, abstraction, and encapsulation in C++.
