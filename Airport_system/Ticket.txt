@@ -1,0 +1,20 @@
+
+______________Plane & Staff ________________
+
+Plane ID    : 50
+Plane       : BRZ-100
+Pilot       : Alastair
+Co-Pilot    : Dudley
+_______________Passenger Data_______________
+
+Name        : Hashim Akmal
+ID          : 6
+Age         : 22
+District    : Lahore
+Gender      : Male
+Destination : Brazil
+Class       : Business
+Charges     : 175000
+Class       : Economy
+Charges     : 100000
+time        : Mon Apr 24 23:26:46 2023
